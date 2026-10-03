@@ -14,15 +14,25 @@
   <a href="https://www.linkedin.com/in/muhammad-hanif-hibatulloh"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Muhammad_Hanif-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-## About Me
+# Hi, I'm Muhammad Hanif Hibatulloh 👋
+
+### Software Engineer | AI & Machine Learning
+
+Computer Science student at **Universitas Jenderal Achmad Yani** with interests in **Software Engineering, Backend Development, Artificial Intelligence, Machine Learning, and Computer Vision**.
+
+I enjoy building practical software systems and intelligent solutions—from designing databases and backend logic to developing machine learning and computer vision models.
+
+---
 
 ## About Me
 
-I'm **Muhammad Hanif Hibatulloh**, a Computer Science student at **Universitas Jenderal Achmad Yani** with a strong interest in **Software Engineering, Backend Development, Artificial Intelligence, and Machine Learning**.
+I'm **Muhammad Hanif Hibatulloh**, a Computer Science student who enjoys turning ideas, requirements, and real-world problems into working software.
 
-I enjoy turning ideas and requirements into working solutions—from designing databases and backend systems to developing machine learning and computer vision models. My projects include web-based information systems, CNN-based image classification, and EEG deep learning research.
+My experience includes developing web-based information systems, designing relational databases, implementing authentication and role-based access control, building CNN-based image classification models, and participating in EEG deep learning research.
 
-I approach every project by first understanding the problem, designing a practical solution, testing the implementation, and improving it based on measurable results.
+I approach projects by first understanding the problem, designing a practical solution, implementing it carefully, evaluating the results, and continuously improving the system.
+
+Beyond code, I also bring experience in **research collaboration, pesantren leadership, teamwork, communication, and creative production**.
 
 ---
 
@@ -33,7 +43,7 @@ I approach every project by first understanding the problem, designing a practic
 | **Software Engineering** | Designing maintainable software systems with structured architecture, database design, testing, and clean implementation. |
 | **Backend Development** | Building server-side applications with authentication, role-based access control, database integration, and business logic. |
 | **AI & Machine Learning** | Exploring practical machine learning and deep learning applications that can be integrated into real software systems. |
-| **Computer Vision** | Developing image-classification solutions using preprocessing, CNN-based models, prediction, and model evaluation. |
+| **Computer Vision** | Developing image-classification solutions using preprocessing, CNN-based models, prediction, and performance evaluation. |
 
 ---
 
@@ -49,51 +59,87 @@ I approach every project by first understanding the problem, designing a practic
 
 ## Beyond Code
 
-My experience also includes **research collaboration, leadership in a pesantren environment, teamwork, communication, and creative production**.
+My experience extends beyond software development.
 
-I have worked on collaborative academic research and also led creative projects involving **concept development, scriptwriting, camera operation, production coordination, and multimedia execution**.
+I have been involved in:
 
-These experiences have strengthened my ability to communicate ideas, coordinate teams, and take ownership of projects from concept to completion.
+- Research collaboration through PKM
+- Leadership activities in a pesantren environment
+- Team coordination and communication
+- Creative project development
+- Scriptwriting
+- Camera operation
+- Multimedia production
+- Project coordination from concept to completion
+
+These experiences have strengthened my ability to communicate ideas, work with teams, take responsibility, and manage projects beyond the technical side.
 
 ---
 
 ## Tech Stack
 
-### Programming & Web
-`Python` · `PHP` · `Java` · `JavaScript` · `HTML5` · `CSS3` · `React` · `Bootstrap`
+### Programming
 
-### Database & Backend
-`MySQL` · `SQL` · `PDO` · `Database Design` · `ERD` · `Role-Based Access Control`
+`Python` · `Java` · `JavaScript` · `PHP`
+
+### Web Development
+
+`HTML5` · `CSS3` · `React` · `Bootstrap`
+
+### Backend & Database
+
+`PHP` · `PDO` · `MySQL` · `SQL` · `Database Design` · `ERD` · `Role-Based Access Control`
 
 ### AI & Machine Learning
+
 `TensorFlow` · `Keras` · `Scikit-learn` · `CNN` · `Computer Vision` · `Vision Transformer`
 
 ### Tools
-`Git` · `GitHub` · `Figma` · `VS Code`
+
+`Git` · `GitHub` · `Figma` · `VS Code` · `XAMPP`
 
 ---
 
 ## Education
 
+### Universitas Jenderal Achmad Yani
+
 **Bachelor of Computer Science**  
-Universitas Jenderal Achmad Yani  
 2024 – Present
 
 **GPA:** 3.49 / 4.00
 
-Main interests:
+Areas of interest:
 
 `Software Engineering` · `Artificial Intelligence` · `Machine Learning` · `Backend Development` · `Computer Vision`
 
 ---
 
+## Research Interests
+
+I'm interested in building reliable software and intelligent systems by combining strong Software Engineering practices with practical Artificial Intelligence and Machine Learning applications.
+
+Current areas of interest include:
+
+- Software Engineering
+- Backend Development
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- EEG Signal Classification
+- Vision Transformer
+- Database Systems
+
+---
+
 ## Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-hanifhibatulloh--dev-181717?style=for-the-badge&logo=github)](https://github.com/hanifhibatulloh-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-hanifhibatulloh--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hanifhibatulloh-dev)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Hanif%20Hibatulloh-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-hanif-hibatulloh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Hanif%20Hibatulloh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hanif-hibatulloh)
 
-[![Email](https://img.shields.io/badge/Email-hanifhibatulloh86%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:hanifhibatulloh86@gmail.com)
+[![Email](https://img.shields.io/badge/Email-hanifhibatulloh86%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanifhibatulloh86@gmail.com)
 
 ---
 
@@ -106,5 +152,5 @@ _Recent public activity will appear here after the workflow runs._
 ---
 
 <p align="center">
-  Building reliable software and intelligent systems, one project at a time.
+  <b>Building reliable software and intelligent systems, one project at a time.</b>
 </p>
