@@ -16,36 +16,86 @@
 
 ## About Me
 
-I build practical software and intelligent systems through software engineering, AI, machine learning, and computer vision.
+## About Me
 
-I approach projects by understanding the problem first, designing the right solution, testing it carefully, and improving it based on real results.
+I'm **Muhammad Hanif Hibatulloh**, a Computer Science student at **Universitas Jenderal Achmad Yani** with a strong interest in **Software Engineering, Backend Development, Artificial Intelligence, and Machine Learning**.
 
-Beyond code, I bring experience in research collaboration, pesantren leadership, teamwork, and end-to-end creative production.
+I enjoy turning ideas and requirements into working solutions—from designing databases and backend systems to developing machine learning and computer vision models. My projects include web-based information systems, CNN-based image classification, and EEG deep learning research.
+
+I approach every project by first understanding the problem, designing a practical solution, testing the implementation, and improving it based on measurable results.
+
+---
 
 ## Current Focus
 
-| Area | What I am exploring |
+| Area | What I am working on |
 | --- | --- |
-| **Software Engineering** | Designing reliable software systems with structured architecture, database design, testing, maintainable code, and practical AI integration. |
-| **Backend Development** | Developing backend systems with authentication, role-based access control, database integration, server-side logic, and maintainable architecture. |
-| **AI Integration** | Integrating AI and machine learning models into applications through data processing, inference, backend integration, evaluation, and feature development. |
-| **Computer Vision** | Building image-classification solutions through preprocessing, CNN-based modeling, prediction, and performance evaluation on real-world visual data. |
+| **Software Engineering** | Designing maintainable software systems with structured architecture, database design, testing, and clean implementation. |
+| **Backend Development** | Building server-side applications with authentication, role-based access control, database integration, and business logic. |
+| **AI & Machine Learning** | Exploring practical machine learning and deep learning applications that can be integrated into real software systems. |
+| **Computer Vision** | Developing image-classification solutions using preprocessing, CNN-based models, prediction, and model evaluation. |
+
+---
 
 ## Featured Work
 
-| Project | Focus | Why it matters |
+| Project | Focus | Overview |
 | --- | --- | --- |
-| [**EEG Classification**](https://github.com/hanifhibatulloh-dev/eeg-motor-imagery-concentration-classification) | EEG / Deep Learning / Signal Processing | PKM-funded EEG research using DWT, Multi-Scale CNN, and Vision Transformer to classify motor imagery and concentration states. |
-| [**Banana CNN**](https://github.com/hanifhibatulloh-dev/banana-ripeness-classification-cnn) | Computer Vision / Deep Learning | CNN-based image classification for Green, Semi-ripe, Ripe, and Overripe bananas, achieving 95.12% test accuracy. |
-| [**Archive System**](https://github.com/hanifhibatulloh-dev/archive-management-system) | Software Engineering / Web Development | Web-based archive management system with authentication, role-based access, relational database integration, audit logs, and reporting. |
+| [**EEG Motor Imagery & Concentration Classification**](https://github.com/hanifhibatulloh-dev/eeg-motor-imagery-concentration-classification) | EEG · Deep Learning · Signal Processing | PKM research project exploring DWT, Multi-Scale CNN, and Vision Transformer approaches for EEG motor imagery and concentration classification. |
+| [**Banana Ripeness Classification Using CNN**](https://github.com/hanifhibatulloh-dev/banana-ripeness-classification-cnn) | Computer Vision · Deep Learning | CNN-based image classification for Green, Semi-ripe, Ripe, and Overripe bananas, achieving **95.12% test accuracy**. |
+| [**Archive Management System**](https://github.com/hanifhibatulloh-dev/archive-management-system) | Software Engineering · Web Development | Web-based archive management system featuring authentication, role-based access control, relational database integration, audit logs, and reporting. |
 
-## Research Direction
+---
 
-I am interested in designing reliable software systems with well-structured architecture, backend services, data-driven features, and practical AI integration.
+## Beyond Code
+
+My experience also includes **research collaboration, leadership in a pesantren environment, teamwork, communication, and creative production**.
+
+I have worked on collaborative academic research and also led creative projects involving **concept development, scriptwriting, camera operation, production coordination, and multimedia execution**.
+
+These experiences have strengthened my ability to communicate ideas, coordinate teams, and take ownership of projects from concept to completion.
+
+---
 
 ## Tech Stack
 
-`Python` · `PHP` · `Java` · `JavaScript` · `HTML5` · `CSS3` · `React` · `Bootstrap` · `MySQL` · `SQL` · `TensorFlow` · `Keras` · `Scikit-learn` · `CNN` · `Vision Transformer` · `Git` · `GitHub` · `Figma`
+### Programming & Web
+`Python` · `PHP` · `Java` · `JavaScript` · `HTML5` · `CSS3` · `React` · `Bootstrap`
+
+### Database & Backend
+`MySQL` · `SQL` · `PDO` · `Database Design` · `ERD` · `Role-Based Access Control`
+
+### AI & Machine Learning
+`TensorFlow` · `Keras` · `Scikit-learn` · `CNN` · `Computer Vision` · `Vision Transformer`
+
+### Tools
+`Git` · `GitHub` · `Figma` · `VS Code`
+
+---
+
+## Education
+
+**Bachelor of Computer Science**  
+Universitas Jenderal Achmad Yani  
+2024 – Present
+
+**GPA:** 3.49 / 4.00
+
+Main interests:
+
+`Software Engineering` · `Artificial Intelligence` · `Machine Learning` · `Backend Development` · `Computer Vision`
+
+---
+
+## Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-hanifhibatulloh--dev-181717?style=for-the-badge&logo=github)](https://github.com/hanifhibatulloh-dev)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Hanif%20Hibatulloh-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-hanif-hibatulloh)
+
+[![Email](https://img.shields.io/badge/Email-hanifhibatulloh86%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:hanifhibatulloh86@gmail.com)
+
+---
 
 ## Recent Activity
 
