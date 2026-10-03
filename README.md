@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/muhammad-hanif-hibatulloh"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Muhammad_Hanif-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-# Hi, I'm Muhammad Hanif Hibatulloh 👋
+# Hi, I'm Muhammad Hanif Hibatulloh
 
 ### Software Engineer | AI & Machine Learning
 
