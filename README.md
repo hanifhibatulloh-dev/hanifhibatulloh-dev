@@ -26,11 +26,13 @@ I enjoy building practical software systems and intelligent solutions—from des
 
 ## About Me
 
-I'm **Muhammad Hanif Hibatulloh**, a Computer Science student who enjoys turning ideas, requirements, and real-world problems into working software.
+I'm **Muhammad Hanif Hibatulloh**, a Computer Science student at **Universitas Jenderal Achmad Yani** with a strong interest in **Software Engineering, Backend Development, Artificial Intelligence, Machine Learning, and Computer Vision**.
 
-My experience includes developing web-based information systems, designing relational databases, implementing authentication and role-based access control, building CNN-based image classification models, and participating in EEG deep learning research.
+I enjoy turning ideas and real-world problems into working solutions—from designing databases and backend systems to developing machine learning and computer vision models.
 
-I approach projects by first understanding the problem, designing a practical solution, implementing it carefully, evaluating the results, and continuously improving the system.
+My experience includes developing web-based information systems, implementing authentication and role-based access control, building CNN-based image classification models, and participating in EEG deep learning research.
+
+I approach projects by understanding the problem first, designing a practical solution, implementing it carefully, evaluating the results, and continuously improving the system.
 
 Beyond code, I also bring experience in **research collaboration, pesantren leadership, teamwork, communication, and creative production**.
 
@@ -54,25 +56,6 @@ Beyond code, I also bring experience in **research collaboration, pesantren lead
 | [**EEG Motor Imagery & Concentration Classification**](https://github.com/hanifhibatulloh-dev/eeg-motor-imagery-concentration-classification) | EEG · Deep Learning · Signal Processing | PKM research project exploring DWT, Multi-Scale CNN, and Vision Transformer approaches for EEG motor imagery and concentration classification. |
 | [**Banana Ripeness Classification Using CNN**](https://github.com/hanifhibatulloh-dev/banana-ripeness-classification-cnn) | Computer Vision · Deep Learning | CNN-based image classification for Green, Semi-ripe, Ripe, and Overripe bananas, achieving **95.12% test accuracy**. |
 | [**Archive Management System**](https://github.com/hanifhibatulloh-dev/archive-management-system) | Software Engineering · Web Development | Web-based archive management system featuring authentication, role-based access control, relational database integration, audit logs, and reporting. |
-
----
-
-## Beyond Code
-
-My experience extends beyond software development.
-
-I have been involved in:
-
-- Research collaboration through PKM
-- Leadership activities in a pesantren environment
-- Team coordination and communication
-- Creative project development
-- Scriptwriting
-- Camera operation
-- Multimedia production
-- Project coordination from concept to completion
-
-These experiences have strengthened my ability to communicate ideas, work with teams, take responsibility, and manage projects beyond the technical side.
 
 ---
 
@@ -100,6 +83,25 @@ These experiences have strengthened my ability to communicate ideas, work with t
 
 ---
 
+## Beyond Code
+
+My experience also extends beyond software development.
+
+I have experience in:
+
+- Research collaboration through PKM
+- Leadership activities in a pesantren environment
+- Team coordination and communication
+- Creative project development
+- Scriptwriting
+- Camera operation
+- Multimedia production
+- Project coordination from concept to completion
+
+These experiences have strengthened my ability to communicate ideas, collaborate with teams, take responsibility, and manage projects from concept to execution.
+
+---
+
 ## Education
 
 ### Universitas Jenderal Achmad Yani
@@ -109,37 +111,27 @@ These experiences have strengthened my ability to communicate ideas, work with t
 
 **GPA:** 3.49 / 4.00
 
-Areas of interest:
-
 `Software Engineering` · `Artificial Intelligence` · `Machine Learning` · `Backend Development` · `Computer Vision`
-
----
-
-## Research Interests
-
-I'm interested in building reliable software and intelligent systems by combining strong Software Engineering practices with practical Artificial Intelligence and Machine Learning applications.
-
-Current areas of interest include:
-
-- Software Engineering
-- Backend Development
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- EEG Signal Classification
-- Vision Transformer
-- Database Systems
 
 ---
 
 ## Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-hanifhibatulloh--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hanifhibatulloh-dev)
+<p align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Hanif%20Hibatulloh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hanif-hibatulloh)
+<a href="https://github.com/hanifhibatulloh-dev">
+  <img src="https://img.shields.io/badge/GitHub-hanifhibatulloh--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
-[![Email](https://img.shields.io/badge/Email-hanifhibatulloh86%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanifhibatulloh86@gmail.com)
+<a href="https://www.linkedin.com/in/muhammad-hanif-hibatulloh">
+  <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Hanif%20Hibatulloh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="mailto:hanifhibatulloh86@gmail.com">
+  <img src="https://img.shields.io/badge/Email-hanifhibatulloh86%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+</p>
 
 ---
 
