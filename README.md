@@ -138,12 +138,12 @@ These experiences have strengthened my ability to communicate ideas, collaborate
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
+- Oct 3, 2026: pushed 1 commit to [hanifhibatulloh-dev/obs-countdown-timer](https://github.com/hanifhibatulloh-dev/obs-countdown-timer).
 - Oct 3, 2026: pushed 1 commit to [hanifhibatulloh-dev/hanifhibatulloh-dev.github.io](https://github.com/hanifhibatulloh-dev/hanifhibatulloh-dev.github.io).
-- Oct 3, 2026: created a branch in [hanifhibatulloh-dev/hanifhibatulloh-dev.github.io](https://github.com/hanifhibatulloh-dev/hanifhibatulloh-dev.github.io).
 - Oct 3, 2026: pushed 1 commit to [hanifhibatulloh-dev/android-digital-clock](https://github.com/hanifhibatulloh-dev/android-digital-clock).
-- Oct 3, 2026: created a branch in [hanifhibatulloh-dev/hanifhibatulloh-dev](https://github.com/hanifhibatulloh-dev/hanifhibatulloh-dev).
 - Oct 3, 2026: pushed 1 commit to [hanifhibatulloh-dev/archive-management-system](https://github.com/hanifhibatulloh-dev/archive-management-system).
-- Oct 3, 2026: created a branch in [hanifhibatulloh-dev/archive-management-system](https://github.com/hanifhibatulloh-dev/archive-management-system).
+- Oct 3, 2026: pushed 1 commit to [hanifhibatulloh-dev/hanifhibatulloh-dev](https://github.com/hanifhibatulloh-dev/hanifhibatulloh-dev).
+- Oct 2, 2026: pushed 1 commit to [hanifhibatulloh-dev/banana-ripeness-classification-cnn](https://github.com/hanifhibatulloh-dev/banana-ripeness-classification-cnn).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
